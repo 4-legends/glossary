@@ -2,7 +2,7 @@ source "https://rubygems.org"
 ruby RUBY_VERSION
 gem "jekyll", "3.4.3"
 gem "sass", "3.4.23"
-gem "nokogiri", " ~> 1.10.9"
+gem "nokogiri", "~> 1.10.8"
 
 group :jekyll_plugins do
     gem "jekyll-last-modified-at"
